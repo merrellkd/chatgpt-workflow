@@ -1,0 +1,11 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "Converts a CSV file to JSON",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
